@@ -1,7 +1,7 @@
 {
   "name": "ccIPD-arena-tracker",
   "description": "ccIPD arena tracker",
-  "repository": "https://github.com/mat-bp/ccIPD-arena-tracker",
+  "repository": "https://github.com/MAT-BP/ccIPD-arena-tracker",
   "keywords": ["docker"],
   "stack": "container"
 }
